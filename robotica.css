@@ -1,0 +1,44 @@
+#robotica1 {
+	width:100%;
+}
+
+.principal{
+	background: #3f99f2;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
+}
+
+p {
+	text-align: justify;
+	font-size: large;
+}
+
+
+.objetivos {
+	background: rgb(0, 7, 37);
+	padding: 20px;
+	font-size: larger;
+	color:white;
+	
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 20%;
+	font-size: large;
+	color: white; 
+}
+
+.imagemobjetivos {
+	width: 50%;
+}
+
